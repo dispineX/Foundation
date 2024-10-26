@@ -1,0 +1,1 @@
+aws secretsmanager delete-secret --secret-id "secret-manager name" --force-delete-without-recovery
